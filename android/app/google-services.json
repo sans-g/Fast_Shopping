@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "887096181018",
+    "firebase_url": "https://fastshopping1-b3686.firebaseio.com",
+    "project_id": "fastshopping1-b3686",
+    "storage_bucket": "fastshopping1-b3686.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887096181018:android:00e8f12df384ce369feca3",
+        "android_client_info": {
+          "package_name": "com.example.practice_time"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887096181018-qi7p9k28rcrn7a6cdsrg39850i10r7i2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXfSP_0ooADm6BkmGIS59dt62PjWpba48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887096181018-qi7p9k28rcrn7a6cdsrg39850i10r7i2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
